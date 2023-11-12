@@ -1,0 +1,10 @@
+Bu program kendisine verilen Türkçe kelimeleri aşağıda belirtilen kuralları göz önüne larak hecelerine ayırır.
+
+
+Türkçede kelime içinde iki ünlü arasındaki ünsüz, kendinden sonraki ünlüyle hece kurar: a-ra-ba, bi-çi-mi-ne, in-sa-nın, ka-ra-ca vb.
+
+Kelime içinde yan yana gelen iki ünsüzden ilki kendinden önceki ünlüyle, ikincisi kendinden sonraki ünlüyle hece kurar: al-dı, bir-lik, sev-mek vb.
+
+Kelime içinde yan yana gelen üç ünsüz harften ilk ikisi kendinden önceki ünlüyle, üçüncüsü kendinden sonraki ünlüyle hece kurar: alt-lık, Türk-çe, kork-mak vb.
+
+Batı kökenli kelimeler, Türkçenin hece yapısına göre hecelere ayrılır: band-rol, kont-rol, port-re, prog-ram, sant-ral, sürp-riz, tund-ra, volf-ram vb.
